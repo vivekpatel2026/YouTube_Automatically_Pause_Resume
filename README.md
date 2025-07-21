@@ -9,7 +9,7 @@
 ## Installation
 
 1. **Download the Extension**:
-   - Go to the [GitHub repository](https://github.com/vivekpatel200/YouTube_Auto_Pause) and download the latest release as a ZIP file.
+   - download the latest release as a ZIP file.
 
 2. **Extract the ZIP File**:
    - Extract the downloaded ZIP file to a folder on your computer.
